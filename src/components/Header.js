@@ -26,7 +26,7 @@ class Header extends React.Component {
       <div className="header">
         <div className="container">
           <div className="logo">
-            <Link to="/">
+            <Link to="https://crefati.com">
               <img height={config.logo.desktop_height} alt={config.logo.alt} src={config.logo.desktop} />
             </Link>
           </div>
